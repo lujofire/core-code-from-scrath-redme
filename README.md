@@ -1,3 +1,3 @@
 # core-code-from-scrath-redme
 
-MI NOBRE ES JOSUE FIGUEROA
+MI NOMBRE ES JOSUE FIGUEROA
