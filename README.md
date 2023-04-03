@@ -15,3 +15,10 @@ https://lucid.app/lucidchart/196c5976-ce45-4523-8120-02d5de0a26ab/edit?viewport_
 
 ![image](https://user-images.githubusercontent.com/49578153/229386097-9e72e772-bd95-45be-868e-aef65e0232bf.png)
 https://lucid.app/lucidchart/7ee2eeb5-94f2-45fa-b307-4e180db80b1f/edit?viewport_loc=-119%2C172%2C1734%2C820%2C0_0&invitationId=inv_227dfe91-fa2e-40e7-974b-5ab1118e77fc
+
+
+**ALGORITMO NUMERO PAR, IMPAR**
+
+![image](https://user-images.githubusercontent.com/49578153/229399876-ae06998b-fb7b-44a0-a0a3-6575eb905d05.png)
+https://lucid.app/lucidchart/491a7181-bf21-4bf8-b770-0912d8c2db1f/edit?viewport_loc=-15%2C28%2C1480%2C700%2C0_0&invitationId=inv_071e04b5-157e-4125-b4d1-6a57c8d7df72
+
