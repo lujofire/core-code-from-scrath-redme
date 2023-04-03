@@ -25,3 +25,19 @@ https://lucid.app/lucidchart/491a7181-bf21-4bf8-b770-0912d8c2db1f/edit?viewport_
 **CALCULAR EDAD**
 
 ![image](https://user-images.githubusercontent.com/49578153/229404812-2b77cab3-beff-4a61-b988-b37386860165.png)
+
+
+**COFRE DEL TESORO**
+
+cofre izquierdo: el cofre del medio tiene un tesoro
+cofre del medio: todos estos cofres tienen tesoro
+cofre derecho: solo uno de estos tiene tesoro
+
+**premisa1:** cofre izquierdo esta mintiendo, osea que el cofre del medio no tiene tesoro
+**premisa2:** cofre del medio esta mintiendo, osea que ningun cofre tiene tesoro, pero es ilogico porque almenos uno tiene el tesoro
+**premisa3:** cofre derecho esta mintiendo, pero esa afirmacion es verdadera porque alguon si tiene.
+
+**premisa4:** entoces si el cofre izquierdo dice que el cofre del medio tiene el tesoro y el cofre derecho
+dice que solo uno tiene el tesoro entonces el tesoro. entonces el tesoro tiene que estar en 2 cofres.
+
+**LOS COFRES CON TESORO SON EL COFRE DEL MEDIO Y EL COFRE DERECHO**
