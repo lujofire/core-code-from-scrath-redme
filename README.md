@@ -22,3 +22,6 @@ https://lucid.app/lucidchart/7ee2eeb5-94f2-45fa-b307-4e180db80b1f/edit?viewport_
 ![image](https://user-images.githubusercontent.com/49578153/229399876-ae06998b-fb7b-44a0-a0a3-6575eb905d05.png)
 https://lucid.app/lucidchart/491a7181-bf21-4bf8-b770-0912d8c2db1f/edit?viewport_loc=-15%2C28%2C1480%2C700%2C0_0&invitationId=inv_071e04b5-157e-4125-b4d1-6a57c8d7df72
 
+**CALCULAR EDAD**
+
+![image](https://user-images.githubusercontent.com/49578153/229404812-2b77cab3-beff-4a61-b988-b37386860165.png)
