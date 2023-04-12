@@ -42,9 +42,13 @@ dice que solo uno tiene el tesoro entonces el tesoro. entonces el tesoro tiene q
 
 **LOS COFRES CON TESORO SON EL COFRE DEL MEDIO Y EL COFRE DERECHO**
 
-**SEMANA 2**
+
+
+**--------------------------------------------------------SEMANA 2----------------------------------------------------------------------**
+
 
 **PROBLEMA DE LOGICA**
+
 
 Alice: "Nadie estudió matemáticas ayer" ***esta mintiendo porque al menos uno tuvo que estudiar***
 
@@ -55,6 +59,7 @@ Charlie: "2 personas estudiaron matemáticas ayer" ***esta mintiendo porque tamp
 Dan: "3 personas estudiaron matemáticas ayer" ***esta mintiendo porque no sabe cuantos estudieron ayer***
 
 Eva: "Ayer estudiaron matemáticas 4 personas" ***esta diciendo la verdad porque alice no estudio ya que esta negando a ver estudiado***
+
 
 
 
