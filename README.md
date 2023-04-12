@@ -47,9 +47,13 @@ dice que solo uno tiene el tesoro entonces el tesoro. entonces el tesoro tiene q
 **PROBLEMA DE LOGICA**
 
 Alice: "Nadie estudió matemáticas ayer" *esta mintiendo porque al menos uno tuvo que estudiar*
+
 Bob: "1 persona estudió matemáticas ayer" *esta diciendo la verdad porque al menos uno estudio ayer*
+
 Charlie: "2 personas estudiaron matemáticas ayer" *esta mintiendo porque tampoco va hacer cuantos estudiaron realmente ayer*
-Dan: "3 personas estudiaron matemáticas ayer" *esta mintiendo porque no sabe cuantos estudieron ayer
+
+Dan: "3 personas estudiaron matemáticas ayer" *esta mintiendo porque no sabe cuantos estudieron ayer*
+
 Eva: "Ayer estudiaron matemáticas 4 personas" *esta diciendo la verdad porque alice no estudio ya que esta negando a ver estudiado*
 
 
