@@ -41,3 +41,21 @@ cofre derecho: solo uno de estos tiene tesoro
 dice que solo uno tiene el tesoro entonces el tesoro. entonces el tesoro tiene que estar en 2 cofres.
 
 **LOS COFRES CON TESORO SON EL COFRE DEL MEDIO Y EL COFRE DERECHO**
+
+**SEMANA 2**
+
+**PROBLEMA DE LOGICA**
+
+Alice: "Nadie estudió matemáticas ayer" *esta mintiendo porque al menos uno tuvo que estudiar*
+Bob: "1 persona estudió matemáticas ayer" *esta diciendo la verdad porque al menos uno estudio ayer*
+Charlie: "2 personas estudiaron matemáticas ayer" *esta mintiendo porque tampoco va hacer cuantos estudiaron realmente ayer*
+Dan: "3 personas estudiaron matemáticas ayer" *esta mintiendo porque no sabe cuantos estudieron ayer
+Eva: "Ayer estudiaron matemáticas 4 personas" *esta diciendo la verdad porque alice no estudio ya que esta negando a ver estudiado*
+
+
+
+
+
+
+
+
