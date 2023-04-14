@@ -90,6 +90,15 @@ INGREDIENTES Y UTENCILIOS NECESARIOS PARA LA PREPARACION DE CEREAL CON LECHE:
 ![image](https://user-images.githubusercontent.com/49578153/231361069-bd925dbc-d76d-44c0-921e-12a950bd89c9.png)
 
 
+**IMPRIMIR MI NOMBRE EN PSeInt**
+![image](https://user-images.githubusercontent.com/49578153/231927910-79f954c3-344c-438b-b7d1-fc74c55d74d0.png)
+
+
+**IMPRIMIR MI NOMBRE Y EDAD**
+![image](https://user-images.githubusercontent.com/49578153/231928948-e6e96330-3c1f-474c-899d-1e6ea8cc263e.png)
+
+
+
 
 
 
